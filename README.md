@@ -21,3 +21,15 @@ The work demonstrates computational methods in helioseismology, including data v
 Install dependencies with:
 ```bash
 pip install numpy matplotlib scipy astropy
+```
+Run the main simulation script:
+```
+python scripts/visualize_fit.py
+```
+Or explore the Jupyter notebooks in notebooks/
+
+Figures of Oscillation modes are available in figures/
+
+Author:
+Om Prakash Senapati 
+BS-MS Physics, IISER Berhampur 
